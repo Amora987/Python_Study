@@ -1,8 +1,10 @@
 # Python_Crash_Course
 
-After studying Fin-Tech at SMU, I want to continue my education in programming. <br>
+After studying Fin-Tech at SMU, I'm continuing my education in programming. <br>
 As a result I decided to review the basics to establish a strong foundation. <br>
-I'll start by going through the entire book "Python Crash Course".
+I'll start by going through the entire book "Python Crash Course" to reinforce <br> 
+my knowledge. Everything in this folder are my notes, I don't own the material <br> 
+its just for personal study.
 ***
 ## - Chapter 2
 Chapter 2 discussed 
