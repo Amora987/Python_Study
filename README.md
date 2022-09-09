@@ -20,7 +20,6 @@ Chapter 3 discussed the topic the of Lists, using methods to access, change, add
 - Inserting elements into a list using _insert( )_ method <br>
 - Removing an item using the _pop( )_ method <br>
 - Removing an item by value using _remove( )_ <br>
-<br>
 - Sorting a list permanently using _sort( )_ <br>
 - Sorting a List Temporarily with the _sorted( )_ function <br>
 - Finding the length of the list using _len( )_
